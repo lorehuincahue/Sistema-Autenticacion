@@ -51,7 +51,7 @@ const getState = ({ getStore, getActions, setStore }) => {
         };
 
         fetch(
-          "https://3001-bairon00-sistemadeauten-vii16mp8sdl.ws-us75.gitpod.io/register",
+          "https://3000-4geeksacade-reactflaskh-2630ucx7e91.ws-us81.gitpod.io/register",
           requestOptions
         )
           .then((response) => response.json())
@@ -84,7 +84,7 @@ const getState = ({ getStore, getActions, setStore }) => {
         };
 
         fetch(
-          "https://3001-bairon00-sistemadeauten-vii16mp8sdl.ws-us75.gitpod.io/login",
+          "https://3000-4geeksacade-reactflaskh-2630ucx7e91.ws-us81.gitpod.io/login",
           requestOptions
         )
           .then((response) => response.json())
@@ -108,7 +108,7 @@ const getState = ({ getStore, getActions, setStore }) => {
         };
 
         fetch(
-          "https://3001-bairon00-sistemadeauten-vii16mp8sdl.ws-us75.gitpod.io/profile",
+          "https://3000-4geeksacade-reactflaskh-2630ucx7e91.ws-us81.gitpod.io/profile",
           requestOptions
         )
           .then((response) => response.json())
